@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Ágil tech - Sistemas e Serviços de Informática</title>
+  <title>Ágil Tech - Sistemas e Serviços de Informática</title>
   <meta content="Sistemas de Gestão ERP" name="description">
   <!-- <meta content="erp gestao computadores notebook" name="keywords"> -->
 
@@ -111,17 +111,12 @@
           </div>
 
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/cliente-Bueno.jpg" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/cliente-CreateTech1.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/cliente-PatinhasPetShop.png" class="img-fluid" alt="">
           </div>
-
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/cliente-VOPTA.png" class="img-fluid" alt="">
           </div>
@@ -153,10 +148,9 @@
             </p>
             <ul>
               <li><i class="ri-check-double-line"></i> Sistema de Gestão Empresarial Completo;</li>
-              <li><i class="ri-check-double-line"></i> Desenvolvimento de Sites, Contas de Email com seu o seu Domínio;</li>
               <li><i class="ri-check-double-line"></i> Consultoria e Suporte de T.I. para Pequenas Empresas;</li>
               <li><i class="ri-check-double-line"></i> Estruturação lógica de Redes LAN, WAN, VPN e Wi-Fi;</li>
-              
+              <li><i class="ri-check-double-line"></i> Monitoramento dos ativos, anti-vírus e licenças de softwares.</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
